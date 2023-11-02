@@ -35,7 +35,7 @@ function getBotResponse(input) {
 
 
     if (input == "1") {
-        window.location.href="../index.html"
+        window.location.href="https://Google.com"
         return "You are too young to be here";
     }
     else if (input == "2") {
